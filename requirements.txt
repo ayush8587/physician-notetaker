@@ -1,0 +1,28 @@
+# Core dependencies
+numpy>=1.19.0
+pandas>=1.2.0
+spacy>=3.0.0
+torch>=1.8.0
+transformers>=4.0.0
+
+# NLP libraries
+keybert>=0.5.0
+spacy-transformers>=1.1.0
+
+# Pre-trained models
+en-core-web-md @ https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.4.0/en_core_web_md-3.4.0-py3-none-any.whl
+
+# Clinical NER model will be downloaded automatically through Hugging Face
+# Transformer models (BERT, T5) will also be downloaded automatically
+
+# Utilities
+scikit-learn>=0.24.0
+tqdm>=4.62.0
+regex>=2021.8.0
+
+# JSON handling
+simplejson>=3.17.0
+
+# Optional but recommended for performance
+# Uncomment if using CUDA-enabled GPU
+# cudatoolkit>=11.1.0
