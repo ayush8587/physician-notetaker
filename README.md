@@ -32,7 +32,7 @@ This project implements an NLP pipeline for:
 1. Clone this repository:
 ```bash
 git clone https://github.com/ayush8587/physician-notetaker.git
-cd physician-notetaker
+cd physician_notetaker
 ```
 
 2. Install required dependencies:
