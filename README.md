@@ -31,7 +31,7 @@ This project implements an NLP pipeline for:
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/physician-notetaker.git
+git clone https://github.com/ayush8587/physician-notetaker.git
 cd physician-notetaker
 ```
 
